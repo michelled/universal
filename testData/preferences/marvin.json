@@ -1,7 +1,5 @@
 {
     "http://registry.gpii.org/common/screenReaderTTSEnabled": [{ "value": true }],
     "http://registry.gpii.org/common/SelfVoicingApplicationTTSEnabled": [{ "value": true }],
-    "http://registry.gpii.org/common/fontsize": [{ "value": 21 }],
-    "http://registry.gpii.org/common/Preferred_LineSpacing": [{ "value": 16 }],
     "http://registry.gpii.org/common/Needfor_Simplification": [{ "value": true }]
 }

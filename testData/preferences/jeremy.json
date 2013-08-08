@@ -1,0 +1,7 @@
+{
+    "http://registry.gpii.org/common/SystemSoundCaption": [{ "value": true }],
+    "http://registry.gpii.org/common/ImageView_DisplayALTtext": [{ "value": true }],
+    "http://registry.gpii.org/common/ButttonView-DisplayALTtext": [{ "value": true }],
+    "http://registry.gpii.org/common/TextForMedia": [{ "value": true }],
+    "http://registry.gpii.org/common/Needfor_Simplification": [{ "value": true }]
+}
